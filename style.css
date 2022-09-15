@@ -104,7 +104,7 @@ section{
     padding-left: 100px;
     padding-right: 50px;
     padding-top: 50px;
-    /*display: inline-grid;*/
+    display: inline-grid;
     grid-gap: 16px;
     grid-auto-flow:dense;
     /*grid-template-columns: 2fr 1fr;*/
